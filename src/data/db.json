@@ -1,0 +1,330 @@
+{
+    "getOptions": [
+        {
+            "option1": {
+                "optionText": "Kapitalizm",
+                "optionValue": 0
+            },
+            "option2": {
+                "optionText": "Sosyalizm",
+                "optionValue": 0
+            }
+        },
+        {
+            "option1": {
+                "optionText": "İzolasyonculuk",
+                "optionValue": 0
+            },
+            "option2": {
+                "optionText": "Küreselcilik",
+                "optionValue": 0
+            }
+        },
+        {
+            "option1": {
+                "optionText": "Otorite",
+                "optionValue": 0
+            },
+            "option2": {
+                "optionText": "Özgürlük",
+                "optionValue": 0
+            }
+        },
+        {
+            "option1": {
+                "optionText": "Gelenekçilik",
+                "optionValue": 0
+            },
+            "option2": {
+                "optionText": "İlerlemecilik",
+                "optionValue": 0
+            }
+        }
+    ],
+    "getQuestions": [
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Özel Mülkiyet güvence altına alınmalıdır."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Barışçıl protesto hakkına izin verilmelidir."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Piyasa ne kadar serbestse insanlar o kadar özgürdür."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Devlet harcamalarını kısmak için devletin sağladığı sosyal refahın bütçeleri daraltılmalı ya da toptan kaldırılmalıdır."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Merkez bankası kaldırılmalıdır."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Yerel üretimi teşvik etmek için kullanılan uluslararası gümrük tarifeleri düşürülmeli veya kaldırılmalıdır."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Hayırseverlik, ihtiyacı olanlara yardım etmenin sosyal refah programlarından daha iyi bir yoludur."
+        },
+        {
+            "questionOption": "Sosyalizm",
+            "questionText": "Tüm endüstri ve bankalar kamulaştırılmalıdır."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Asgari ücret kaldırılmalıdır."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Gelir vergisi kaldırılmalıdır."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Miras, meşru bir zenginlik biçimidir."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Yollar ve elektrik gibi temel hizmetler özel şirketlere bırakılmalıdır."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Devlet piyasaya müdahale etmemelidir."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Alım gücü daha yüksek olanlar daha iyi sağlık hizmeti alabilmelidir."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Vergi ve enflasyon yükünü azaltmak için sosyal adalet ve sosyal refah bütçesi daraltılmalıdır."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Birleşmiş Milletler dünya için olumludur."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Milletler, bizi gerçek sorunlardan uzaklaştıran sosyal yapılardır."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Bireycilik, kollektivizm veya komünitarizmden daha aşağıdır."
+        },
+        {
+            "questionOption": "İzolasyonculuk",
+            "questionText": "Uluslararası kuruluşların bağımsız uluslara müdahale etme hakkı yoktur."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Ulusal sınırları aşan küresel bir dünya için çabalamak gerekir."
+        },
+        {
+            "questionOption": "İzolasyonculuk",
+            "questionText": "NATO vb. gibi Uluslararası Askeri ittifaklara karşıyım."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Savaşların diğer ülkelere haklı gösterilmesi lazımdır."
+        },
+        {
+            "questionOption": "Sosyalizm",
+            "questionText": "Devlet destekli medya, bağımsız veya kurumsal medyaya tercih edilirdir."
+        },
+        {
+            "questionOption": "İzolasyonculuk",
+            "questionText": "Ulusum kendi geleceğine karar vermekte özgür olmalı."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Avrupa Birliği gibi bölgesel birlikler arzu edilirdir."
+        },
+        {
+            "questionOption": "İlerlemecilik",
+            "questionText": "Geleneğin bazı kısımları terk edilmelidir."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Toplum için dini uyanış gereklidir."
+        },
+        {
+            "questionOption": "İlerlemecilik",
+            "questionText": "Hapishane sistemimiz için ceza yerine rehabilitasyona odaklanmalıyız."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Devlet olabildiğince küçük olmalıdır."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Hükümet gözetimi gerekli bir kötülüktür."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Devlet, Anarşizm lehine kaldırılmalıdır."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Hukuki açıdan ifade özgürlüğü bir insan hakkıdır."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Devletin çevreyi korumak için düzenlemeleri olmalıdır."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Geçmişimizin geleneklerini sürdürmemiz önemlidir."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Millet, ırk, din veya başka bir aidiyetlik önemsizdir sadece insanlık vardır."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Toplumumuzda uyuşturucu kullanımı ayıplanmalıdır."
+        },
+        {
+            "questionOption": "İlerlemecilik",
+            "questionText": "Eşcinsel evlilik savunulmalıdır."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Geçerli bir nedeni olmayanlar için silah sahipliği yasaklanmalıdır."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Aile değerlerini korumak önemlidir."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Mültecilere sınırlarımızı sonuna kadar açmalıyız."
+        },
+        {
+            "questionOption": "İzolasyonculuk",
+            "questionText": "Ülkem dışındaki insanların hayatına önem verirken, önceliğimiz kendi halkımız olmalıdır."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Evlilik, savunulması gereken toplumun önemli bir parçasıdır."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Cinsiyet sosyal bir yapı değil doğuştan gelen bir gerçektir."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Saklayacak hiçbir şeyin yoksa korkacak bir şeyin de yoktur."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Komünizm  asla işe yaramayacak bir idealdir."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Zenginlerin vergilendirilmesi kötü bir fikirdir."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Hükümet, vatandaşlarının günlük yaşamına daha az dahil olmalıdır."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Bazen hükümetin aşırılık yanlıları ve teröristlerle mücadele etmek için vatandaşlarını gözetlemesi doğrudur."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Otorite figürleri, ahlaki açıdan doğruysa, toplum için iyi bir şeydir."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Kuruluşları adil ve etkili bir şekilde yalnızca hükümet düzenleyebilir."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Devletin etki alanı ne kadar küçük olursa, insanlar o kadar özgür olur."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Şu anda işlediği gibi, toplumun işleyebilmesi için bir yapıya ve bürokrasiye ihtiyaç duyar."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Devlet artık yalnızca acil durum hizmetleri ve kanun yaptırımı sağlamalıdır."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Kriz zamanlarında güvenlik, sivil özgürlüklerden daha önemli hale gelir."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Devlet okulları kötü bir fikir çünkü devletimiz çocuklarımızı etkilememeli."
+        },
+        {
+            "questionOption": "Gelenekçilik",
+            "questionText": "Toplumu zaman içinde yavaş yavaş değiştirerek yavaş yavaş iyileştirmek, onu yönetmenin en iyi yoludur."
+        },
+        {
+            "questionOption": "İlerlemecilik",
+            "questionText": "Gelenek, toplumları geride tutar."
+        },
+        {
+            "questionOption": "İlerlemecilik",
+            "questionText": "LGBT hareketi daha fazla saygıyı hak ediyor."
+        },
+        {
+            "questionOption": "Kapitalizm",
+            "questionText": "Ekonomik düzenleme/regülasyon, Kapitalizmin olumlu faydalarını azaltır."
+        },
+        {
+            "questionOption": "Sosyalizm",
+            "questionText": "Daha iyi bir refah karşılığında vergileri artırmalıyız."
+        },
+        {
+            "questionOption": "Sosyalizm",
+            "questionText": "Herkes ücretsiz sağlık hizmetine sahip olmalıdır."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Güvenli bir toplum için güçlü bir hükümet gereklidir."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Anarşizm pratikte uygulanabilir bir kavram değildir."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Anarşist bir düzen yerine totaliter bir hükümeti tercih ederim."
+        },
+        {
+            "questionOption": "Otorite",
+            "questionText": "Özverili bir diktatörün yönetimi benim için ideal."
+        },
+        {
+            "questionOption": "Özgürlük",
+            "questionText": "Diktatörlük yerine demokrasiyi tercih ederim."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Otoriter rejimleri olan ülkeler, demokrasi ve özgürlük götürmemiz için işgal edilmelidir."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Ulusumuz dışındaki konulara daha fazla odaklanmalıyız."
+        },
+        {
+            "questionOption": "İzolasyonculuk",
+            "questionText": "Mümkün olduğunda dış çatışmadan kaçınmalıyız."
+        },
+        {
+            "questionOption": "Küreselcilik",
+            "questionText": "Göçmenlik şimdi olduğundan daha kolay olmalı."
+        },
+        {
+            "questionOption": "İzolasyonculuk",
+            "questionText": "Yasadışı göç, çoğu durumda ahlaki açıdan yanlıştır."
+        }
+    ]
+}

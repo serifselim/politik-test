@@ -1,0 +1,12 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-title {
+  text-align: center;
+  font-size: 3.6rem;
+  color: var(--color-gray);
+  margin-bottom: 2rem;
+}

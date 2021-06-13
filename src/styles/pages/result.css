@@ -1,0 +1,43 @@
+.result{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.result-title{
+    font-size: 2.5rem;
+}
+
+.options{
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.options-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.options-side{
+    font-size: 1.6rem;
+}
+
+.options-persent{
+    width: 70%;
+    height: 3rem;
+    background-color: var(--light-green);
+    position: relative;
+    margin: 0 1rem;
+    outline: 3px solid var(--gray);
+}
+
+.options-left{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: var(--light-red);
+    border-right: 3px solid var(--gra);
+}

@@ -1,0 +1,21 @@
+.status{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+}
+
+.status-count{
+    font-size: 2rem;
+    background-color: var(--gray);
+    color: var(--white);
+    padding: 0 .4rem;
+}
+
+.question{
+    text-align: center;
+    min-height: 5rem;
+}
+
+.question-title{
+    font-size: 1.6rem;
+}
